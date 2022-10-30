@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/AudioShoutOut_Yuri Lowenthal_329_P825551613.mp3-72fab43bb0b0d373196c08c29962b8c2.mp3str"
+
+[deps]
+
+source_file="res://Attachments/AudioShoutOut_Yuri Lowenthal_329_P825551613.mp3"
+dest_files=[ "res://.import/AudioShoutOut_Yuri Lowenthal_329_P825551613.mp3-72fab43bb0b0d373196c08c29962b8c2.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
